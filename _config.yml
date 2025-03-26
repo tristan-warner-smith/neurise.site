@@ -37,40 +37,40 @@ mastodon_link                             :
 features                                  :
 
   - title: Smarter Habits, Every Day
-  description: Build science-backed habits that boost your happiness — automatically tailored to your mood, time of day, and goals.
-  fontawesome_icon_name: brain
+    description: Build science-backed habits that boost your happiness — automatically tailored to your mood, time of day, and goals.
+    fontawesome_icon_name: brain
 
   - title: Backed by Science
-  description: Grounded in the latest psychology and behavioral science, our tools are designed to sustainably increase well-being.
-  fontawesome_icon_name: flask
+    description: Grounded in the latest psychology and behavioral science, our tools are designed to sustainably increase well-being.
+    fontawesome_icon_name: flask
 
   - title: Personalized for You
-  description: From gratitude to goal-setting, receive habit suggestions that adapt to your unique personality and daily rhythm.
-  fontawesome_icon_name: user-cog
+    description: From gratitude to goal-setting, receive habit suggestions that adapt to your unique personality and daily rhythm.
+    fontawesome_icon_name: user-cog
 
   - title: Track What Lifts You
-  description: See which habits actually make you happier, thanks to built-in mood tracking and behavioral insights.
-  fontawesome_icon_name: chart-line
+    description: See which habits actually make you happier, thanks to built-in mood tracking and behavioral insights.
+    fontawesome_icon_name: chart-line
 
   - title: Feel-Good Routines
-  description: Discover uplifting rituals — morning to night — proven to boost mood, motivation, and meaning.
-  fontawesome_icon_name: sun
+    description: Discover uplifting rituals — morning to night — proven to boost mood, motivation, and meaning.
+    fontawesome_icon_name: sun
 
   - title: Purposeful Progress
-  description: Set goals that matter and feel the momentum. We help you stay aligned with what brings long-term satisfaction.
-  fontawesome_icon_name: bullseye
+    description: Set goals that matter and feel the momentum. We help you stay aligned with what brings long-term satisfaction.
+    fontawesome_icon_name: bullseye
 
   - title: Built-In Motivation
-  description: Smart nudges and positive reinforcement help keep you going — no guilt, just growth.
-  fontawesome_icon_name: rocket
+    description: Smart nudges and positive reinforcement help keep you going — no guilt, just growth.
+    fontawesome_icon_name: rocket
 
   - title: Share the Joy
-  description: Connect with others through kindness challenges, shared goals, and uplifting messages.
-  fontawesome_icon_name: heart
+    description: Connect with others through kindness challenges, shared goals, and uplifting messages.
+    fontawesome_icon_name: heart
 
   - title: Privacy by Design
-  description: Your data is safe, secure, and always under your control. Happiness shouldn’t come at the cost of privacy.
-  fontawesome_icon_name: lock
+    description: Your data is safe, secure, and always under your control. Happiness shouldn’t come at the cost of privacy.
+    fontawesome_icon_name: lock
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
@@ -83,7 +83,7 @@ topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
+cover_image                               : assets/headerimage2.jpg                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
