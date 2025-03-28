@@ -5,11 +5,23 @@ include_in_header: false
 ---
 
 # Changelog
-Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
+Neurise is a toolkit of habits and techniques to bring more happiness into your life.
+We're working for you, have feedback, ideas for features, want to report a bug? reach out.
 
 <br>
 
 ### `Latest`
+
+### `Initial Release`
+# **Version 1.0**
+Our first official release is here!
+
+#### Features
+- User-friendly interface designed for intuitive navigation
+- Core functionality fully implemented and tested
+- Performance optimized for various devices
+
+<!-- 
 # **Version 2.0**
 This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
 
@@ -61,5 +73,7 @@ That wow robin one and gosh audibly darn that variously less across softly awake
 #### Bug Fixes
 - Improved user sign up experience.
 - Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
+-->
+
 
 <br>
