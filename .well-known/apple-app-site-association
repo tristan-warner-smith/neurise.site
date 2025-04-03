@@ -1,0 +1,14 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appIDs": [
+			"DSR7RC6YG7.com.codeglee.apps.neurise.development",
+			"DSR7RC6YG7.com.codeglee.apps.neurise.production"
+		],
+                "paths": ["*"]
+            }
+        ]
+    }
+}

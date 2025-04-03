@@ -141,3 +141,8 @@ collections:
 
 # Markdown rendering
 markdown: kramdown
+
+# Apple App Site Association
+
+include:
+ - .well-known
