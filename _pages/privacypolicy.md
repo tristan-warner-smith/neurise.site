@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 **Last updated**  
-May 15 2024
+September 24 2025
 
 # Privacy Policy for Neurise
 
@@ -35,18 +35,13 @@ Welcome to Neurise, a mobile application designed to support your happiness and 
 We implement appropriate security measures to protect your personal information from unauthorized access, alteration, or disclosure. Your data is stored on secure servers with encryption protocols in place.
 
 ## Data Sharing
-We do not sell your personal information to third parties. We may share anonymized, aggregated data for research purposes to improve understanding of happiness and wellness factors.
+We do not, nor will we ever, sell your personal information to third parties.
 
 ## Your Rights
 You have the right to:
 - Access your personal information
 - Correct inaccurate information
 - Delete your account and associated data
-- Export your data
-- Opt out of certain data collection
-
-## Children's Privacy
-Neurise is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13.
 
 ## Changes to This Policy
 We may update this Privacy Policy periodically. We will notify you of any significant changes through the app or via email.
@@ -55,4 +50,4 @@ We may update this Privacy Policy periodically. We will notify you of any signif
 Neurise is designed to support wellness and happiness based on cognitive and behavioral science. It is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition.
 
 ## Contact Us
-If you have questions about this Privacy Policy, please contact us at privacy@neurise.app.
+If you have questions about this Privacy Policy, please contact us at [hello@neurise.app](mailto:hello@neurise.app).

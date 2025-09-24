@@ -46,4 +46,4 @@ We may modify these Terms of Service at any time. Continued use of Neurise after
 These Terms of Service shall be governed by and construed in accordance with the laws of Jurisdiction, without regard to its conflict of law provisions.
 
 ## Contact Information
-If you have any questions about these Terms of Service, please contact us at terms@neurise.app.
+If you have any questions about these Terms of Service, please contact us at [hello@neurise.app](hello@neurise.app).

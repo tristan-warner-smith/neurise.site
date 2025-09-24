@@ -6,7 +6,7 @@ include_in_header: true
 
 # Changelog
 Neurise is a toolkit of habits and techniques to bring more happiness into your life.
-We're working for you, have feedback, ideas for features, want to report a bug? reach out.
+We're working for you! Have feedback, ideas for features, or want to report a bug? Reach out at [hello@neurise.app](mailto:hello@neurise.app).
 
 <br>
 
@@ -14,12 +14,8 @@ We're working for you, have feedback, ideas for features, want to report a bug? 
 
 ### `Initial Release`
 # **Version 1.0**
-Our first official release is here!
+Our first official release is just around the corner!
 
-#### Features
-- User-friendly interface designed for intuitive navigation
-- Core functionality fully implemented and tested
-- Performance optimized for various devices
 
 <!-- 
 # **Version 2.0**
