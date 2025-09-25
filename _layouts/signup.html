@@ -12,6 +12,36 @@
     <style>
       :root { color-scheme: light dark; }
       body { font-family: Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial, "Apple Color Emoji", "Segoe UI Emoji"; }
+      
+      /* MailerLite form mobile fixes */
+      .ml-embedded {
+        width: 100% !important;
+        max-width: 100% !important;
+      }
+      
+      .ml-embedded form {
+        width: 100% !important;
+        max-width: 100% !important;
+      }
+      
+      .ml-embedded input[type="email"] {
+        width: 100% !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+      }
+      
+      .ml-embedded button {
+        width: 100% !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+      }
+      
+      /* Ensure form is visible on mobile */
+      @media (max-width: 768px) {
+        .ml-embedded {
+          min-height: 200px;
+        }
+      }
     </style>
 
     <!-- MailerLite Universal -->
@@ -44,6 +74,13 @@
 
                     <div class="mt-5">
                         <div class="ml-embedded" data-form="JEaQ5Z"></div>
+                        <!-- Fallback for mobile if form doesn't load -->
+                        <div id="mobile-fallback" style="display: none;" class="mt-4 p-4 bg-zinc-50 dark:bg-zinc-800 rounded-lg">
+                            <p class="text-sm text-zinc-600 dark:text-zinc-400 mb-3">Having trouble with the form? Try this direct link:</p>
+                            <a href="https://dashboard.mailerlite.com/forms/1813328/jeaq5z" class="inline-block bg-blue-600 text-white px-4 py-2 rounded-md text-sm font-medium hover:bg-blue-700 transition-colors">
+                                Sign up directly
+                            </a>
+                        </div>
                     </div>
 
                     <p class="mt-4 text-[13px] text-zinc-500">Protected by reCAPTCHA and the <a class="underline" href="/privacypolicy">privacy policy</a>. We use double opt‑in.</p>
@@ -73,6 +110,30 @@
         </footer>
     </main>
 
-    <script>document.getElementById('y').textContent = new Date().getFullYear();</script>
+    <script>
+        document.getElementById('y').textContent = new Date().getFullYear();
+        
+        // Check if MailerLite form loads on mobile
+        function checkFormLoad() {
+            const formContainer = document.querySelector('.ml-embedded');
+            const fallback = document.getElementById('mobile-fallback');
+            
+            // Check if form is loaded after 3 seconds
+            setTimeout(() => {
+                if (formContainer && formContainer.children.length === 0) {
+                    // Form didn't load, show fallback
+                    if (fallback) {
+                        fallback.style.display = 'block';
+                    }
+                }
+            }, 3000);
+        }
+        
+        // Run check when page loads
+        document.addEventListener('DOMContentLoaded', checkFormLoad);
+        
+        // Also check on window load
+        window.addEventListener('load', checkFormLoad);
+    </script>
 </body>
 </html>
