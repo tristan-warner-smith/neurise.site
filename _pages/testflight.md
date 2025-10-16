@@ -14,7 +14,7 @@ Thanks for being a tester, your happiness, and feedback are really important to 
 
 You should receive an email invitation to test Neurise via TestFlight.
 
-![Email Invitation](/Assets/testflight/1. Email.png)
+![Email Invitation](/Assets/testflight/1-email.png)
 
 ---
 
@@ -22,7 +22,7 @@ You should receive an email invitation to test Neurise via TestFlight.
 
 Tap on "View in TestFlight" or "Start Testing" in the email to begin the installation process.
 
-![TestFlight Info](/Assets/testflight/2. TestFlight Info.PNG)
+![TestFlight Info](/Assets/testflight/2-testflight-info.png)
 
 ---
 
@@ -30,7 +30,7 @@ Tap on "View in TestFlight" or "Start Testing" in the email to begin the install
 
 If you don't have TestFlight installed yet, you'll be directed to the App Store to install it first.
 
-![Install TestFlight](/Assets/testflight/3. Install TestFlight.PNG)
+![Install TestFlight](/Assets/testflight/3-install-testflight.png)
 
 ---
 
@@ -38,7 +38,7 @@ If you don't have TestFlight installed yet, you'll be directed to the App Store 
 
 Once TestFlight is installed, open the app.
 
-![Open TestFlight](/Assets/testflight/4. Open Testflight.PNG)
+![Open TestFlight](/Assets/testflight/4-open-testflight.png)
 
 ---
 
@@ -46,7 +46,7 @@ Once TestFlight is installed, open the app.
 
 If prompted, you may need to redeem your invitation code in TestFlight.
 
-![Redeem Code](/Assets/testflight/5. Redeem Code.PNG)
+![Redeem Code](/Assets/testflight/5-redeem-code.png)
 
 ---
 
@@ -54,7 +54,7 @@ If prompted, you may need to redeem your invitation code in TestFlight.
 
 You'll see the Neurise app ready to install in TestFlight. Tap "Install" or "Accept" to proceed.
 
-![Install Neurise](/Assets/testflight/6. Install - Open Neurise.PNG)
+![Install Neurise](/Assets/testflight/6-install-open-neurise.png)
 
 ---
 
@@ -62,7 +62,7 @@ You'll see the Neurise app ready to install in TestFlight. Tap "Install" or "Acc
 
 The app will begin downloading and installing on your device.
 
-![Install Progress](/Assets/testflight/7. Install.PNG)
+![Install Progress](/Assets/testflight/7-install.png)
 
 ---
 
@@ -70,7 +70,7 @@ The app will begin downloading and installing on your device.
 
 Once installed, tap "Open" to launch Neurise and start testing!
 
-![Open App](/Assets/testflight/8. Open.PNG)
+![Open App](/Assets/testflight/8-open.png)
 
 ---
 
