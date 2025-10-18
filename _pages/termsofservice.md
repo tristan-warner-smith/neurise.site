@@ -2,6 +2,7 @@
 layout: page
 title: Terms of Service
 include_in_header: true
+include_in_footer: true
 ---
 
 # Terms of Service for Neurise

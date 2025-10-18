@@ -2,6 +2,7 @@
 layout: page
 title: How to Give Feedback
 include_in_header: false
+include_in_footer: false
 ---
 
 # How to Give Feedback

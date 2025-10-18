@@ -2,6 +2,7 @@
 layout: page
 title: TestFlight Installation Guide
 include_in_header: false
+include_in_footer: false
 ---
 
 # TestFlight Installation Guide
