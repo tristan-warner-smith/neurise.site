@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Support
-include_in_header: false
+include_in_header: true
 include_in_footer: true
 ---
 
@@ -23,8 +23,8 @@ Our support team aims to respond to all inquiries within 5 business days.
 
 ## Common Support Topics
 
-- **App Installation & Updates:**  
-  For help installing or updating Neurise, please visit the [App Store](https://apps.apple.com/) and ensure you are running iOS 17 or later.  
+- **App Installation & Updates:**
+  For help installing or updating Neurise, please visit the [App Store](https://apps.apple.com/) and ensure you are running iOS 18 or later.  
   _You can also access installation help from the app's settings screen._
 
 - **Account Issues:**  

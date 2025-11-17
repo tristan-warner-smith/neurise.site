@@ -11,7 +11,7 @@ presskit_download_link                    :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  :  assets/app-icon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  :  Neurise                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  :  Neurise                                  # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : The science of happiness, made simple.
 
@@ -23,8 +23,8 @@ enable_smart_app_banner                   : false                               
 your_name                                 : Neurise                                
 your_link                                 : https://neurise.app                     
 your_city                                 : Hampshire, UK                                
-email_address                             : contact+neurise@codeglee.com
-facebook_username                         :                                           
+email_address                             : hello+website@neurise.app
+facebook_username                         :
 instagram_username                        : neurise.app
 twitter_username                          : 
 github_username                           : 
@@ -37,7 +37,7 @@ mastodon_link                             :
 features                                  :
 
   - title: Smarter Habits, Every Day
-    description: Build science-backed habits that boost your happiness — automatically tailored to your mood, time of day, and goals.
+    description: Build science-backed habits that boost your happiness — automatically tailored to the time of day, your profile, and goals.
     fontawesome_icon_name: brain
 
   - title: Based on Science
@@ -45,11 +45,11 @@ features                                  :
     fontawesome_icon_name: flask
 
   - title: Personalized for You
-    description: From gratitude to goal-setting, receive habit suggestions that adapt to your unique personality and daily rhythm.
+    description: From gratitude to goal-setting, receive habit suggestions that adapt to you.
     fontawesome_icon_name: user-cog
 
   - title: Track What Lifts You
-    description: See which habits actually make you happier, thanks to built-in mood tracking and behavioral insights.
+    description: See which habits actually make you happier, thanks to built-in mood tracking.
     fontawesome_icon_name: chart-line
 
   - title: Feel-Good Routines
@@ -63,14 +63,6 @@ features                                  :
   - title: Built-In Motivation
     description: Smart nudges and positive reinforcement help keep you going — no guilt, just growth.
     fontawesome_icon_name: rocket
-
-  - title: Share the Joy
-    description: Connect with others through kindness challenges, shared goals, and uplifting messages.
-    fontawesome_icon_name: heart
-
-  - title: Privacy by Design
-    description: Your data is safe, secure, and always under your control. Happiness shouldn’t come at the cost of privacy.
-    fontawesome_icon_name: lock
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description

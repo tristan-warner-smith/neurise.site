@@ -5,8 +5,8 @@ include_in_header: true
 include_in_footer: true
 ---
 
-**Last updated**  
-September 24 2025
+**Last updated**
+November 1 2025
 
 # Privacy Policy for Neurise
 
@@ -17,13 +17,18 @@ Welcome to Neurise, a mobile application designed to support your happiness and 
 
 ### Personal Information
 - **Account Information**: Email address and username when you create an account
-- **Profile Information**: Optional information you choose to provide such as age, gender, and wellness goals
+- **Profile Information**: Optional information you choose to share, such as first name
 - **Usage Data**: How you interact with the app, including features used and time spent
 
 ### Health and Wellness Data
 - **Self-reported Data**: Information you provide about your mood, emotions, and well-being
 - **Activity Data**: Information about your engagement with wellness activities and exercises
 - **Progress Information**: Data related to your wellness journey and achievements
+
+### Analytics and Crash Reporting
+- **Crash Reports**: Information about app crashes and performance issues
+- **Usage Analytics**: Data about how you interact with app features
+- **Performance Data**: Technical information to help us identify and fix bugs
 
 ## How We Use Your Information
 - To provide and improve our services
@@ -37,6 +42,9 @@ We implement appropriate security measures to protect your personal information 
 
 ## Data Sharing
 We do not, nor will we ever, sell your personal information to third parties.
+
+## Consent to Share Consumption Data with Apple
+By using our app and making in-app purchases, you consent to our sharing of data regarding your usage and consumption of purchased content with Apple, as part of our efforts to resolve refund requests. This information may include details about how you have accessed and interacted with the purchased content. The purpose of sharing this data is to help Apple make an informed decision regarding refund requests. We ensure that such data sharing is done in compliance with Apple's policies and only as necessary to process your requests.
 
 ## Your Rights
 You have the right to:
