@@ -32,10 +32,14 @@ All content, features, and functionality of Neurise, including but not limited t
 Neurise is provided "as is" without warranties of any kind, either express or implied.
 
 ## Limitation of Liability
-In no event shall Neurise be liable for any indirect, incidental, special, consequential, or punitive damages.
+The service is provided on an "as is" and "as available" basis. We do not guarantee that the service will be uninterrupted, accurate, or error-free. To the maximum extent permitted by law, we are not liable for any indirect, incidental, consequential, special, or punitive damages, or for any loss of profits, data, or goodwill. Our total liability for any claim arising from or relating to the service is limited to the greater of the amount you paid for the service in the 12 months before the claim or £10. Nothing in these terms limits any rights you have under applicable consumer law or excludes liability where the law does not allow it.
 
 ## Medical Disclaimer
-Neurise is not a substitute for professional medical advice, diagnosis, or treatment. The app is intended to supplement, not replace, the expertise and judgment of healthcare professionals.
+Content in the app is for general wellbeing and educational purposes. It is not medical, psychological, or therapeutic advice. It is not a substitute for professional care. If you have concerns about your mental or physical health, seek support from a qualified professional.
+
+## Communications
+### Email
+We may send you emails needed to operate your account. This includes a welcome message after you sign up, account-related notices, security alerts, and information about changes to the service. These communications are part of providing the service. Some non-essential service messages may include an unsubscribe option. We do not send marketing emails unless you have separately given us permission.
 
 ## Termination
 We reserve the right to terminate or suspend your account and access to Neurise at our sole discretion, without notice, for conduct that we believe violates these Terms of Service.
