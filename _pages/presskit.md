@@ -13,7 +13,12 @@ include_in_footer: false
 
 ### The science of happiness, made simple.
 
-[Download on the App Store](https://apps.apple.com/app/neurise/id6744847217)
+<div style="margin-top: 20px;">
+<a href="https://apps.apple.com/app/neurise-happiness-wellbeing/id6744847217"><img src="/assets/appstore.png" alt="Download on the App Store" style="height: 75px;"></a>
+<div style="margin-top: 20px;">
+<a href="https://www.producthunt.com/products/neurise?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-neurise&#0045;happiness&#0045;wellbeing" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1039352&theme=light&t=1763657914135" alt="Neurise&#0058;&#0032;Happiness&#0032;&#0038;&#0032;Wellbeing - The&#0032;science&#0032;of&#0032;happiness&#0044;&#0032;made&#0032;simple&#0046; | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+</div>
+</div>
 
 ---
 
@@ -59,7 +64,7 @@ Neurise is free to download and use. The core app includes all essential feature
 
 ### Links
 
-* [App Store](https://apps.apple.com/app/neurise/id6744847217)
+* [App Store](https://apps.apple.com/app/neurise-happiness-wellbeing/id6744847217)
 * [Website](https://neurise.app)
 * [Privacy Policy](/privacypolicy)
 * [Support](/support)
