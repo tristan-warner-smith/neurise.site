@@ -23,7 +23,7 @@ Your use of the service is also governed by our Privacy Policy. That policy expl
 You must provide accurate and complete information when creating an account. You are responsible for maintaining the confidentiality of your account. You are responsible for all activities that occur under your account.
 
 ## User Content
-You retain ownership of the content you submit to the service. You grant Neurise a non-exclusive, worldwide, royalty-free licence to use, store, display, and process your content only as needed to operate and improve the service. You are responsible for ensuring your content does not violate the rights of others.
+You retain full ownership of all content you create in the app, including journal entries, reflections, and personal data. Your content is private and remains yours. We store your content only to provide the service to you. We do not share, sell, or use your content for any purpose other than displaying it back to you within the app. You are responsible for ensuring your content does not violate the rights of others.
 
 ## User Conduct
 You may not:
@@ -50,8 +50,36 @@ Neurise is provided on an "as is" and "as available" basis without warranties of
 ## Limitation of Liability
 To the maximum extent permitted by law, we are not liable for any indirect, incidental, consequential, special, or punitive damages, or for any loss of profits, data, or goodwill. Our total liability for any claim arising from or relating to the service is limited to the greater of the amount you paid for the service in the 12 months before the claim or £10. Nothing in these terms limits your rights under applicable consumer law or excludes liability where the law does not allow it.
 
-## Medical Disclaimer
-Content in the app is for general wellbeing and educational purposes. It is not medical, psychological, or therapeutic advice. It is not a substitute for professional care. If you have concerns about your mental or physical health, seek support from a qualified professional.
+## Medical Disclaimer and Limitation of Liability for Content
+
+### Consult Qualified Professionals
+If you have or suspect you may have a medical or mental health condition, or if you are experiencing any physical or psychological symptoms, you should consult with a qualified healthcare professional immediately. Never disregard professional medical advice or delay seeking it because of something you have read or experienced in Neurise.
+
+### User Responsibility and Judgment
+You are solely responsible for evaluating the suitability, safety, and appropriateness of any suggestion or content provided by the app for your individual circumstances. You should use your own judgment and consult with healthcare professionals before implementing any suggestions, particularly if:
+- You have existing medical or mental health conditions
+- You are taking medications
+- You are pregnant or nursing
+- You have physical limitations or disabilities
+- The suggestion could pose any risk to your health or safety
+
+### Emergency Mental Health
+If you are experiencing a mental health emergency, including thoughts of self-harm or suicide, do not rely on Neurise. Contact emergency services immediately or call a crisis helpline:
+- UK: Call 999 or the Samaritans at 116 123
+- US: Call 988 (Suicide and Crisis Lifeline)
+- For other countries, contact your local emergency services
+
+### Limitation of Liability for Following Suggestions
+To the maximum extent permitted by law, Neurise and its operators are not liable for any injury, harm, adverse effects, or consequences resulting from your use of, reliance on, or implementation of any content, suggestions, or information provided by the app. This includes but is not limited to:
+- Physical injury or harm
+- Mental or emotional distress
+- Worsening of existing conditions
+- Development of new conditions
+- Financial loss
+- Any other damages arising from following suggestions in the app
+
+### Use at Your Own Risk
+You acknowledge and agree that you use Neurise and implement any suggestions or advice entirely at your own risk. The app provides general wellness information that may not be appropriate for everyone.
 
 ## Communications
 
