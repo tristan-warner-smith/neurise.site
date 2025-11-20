@@ -1,15 +1,17 @@
 ---
 layout: page
-title: Neurise Press Kit
+title: Press Kit
 include_in_header: true
 include_in_footer: false
 ---
 
 # Press Kit
 
-## Neurise
+<img src="/assets/launch/Link Card Preview Image - 1200x628.png" alt="Neurise Link Card Preview" style="border-radius: 16px; max-width: 100%;">
 
-##### The science of happiness, made simple.
+# Neurise
+
+### The science of happiness, made simple.
 
 [Download on the App Store](https://apps.apple.com/app/neurise/id6744847217)
 
@@ -61,6 +63,30 @@ Neurise is free to download and use. The core app includes all essential feature
 * [Website](https://neurise.app)
 * [Privacy Policy](/privacypolicy)
 * [Support](/support)
+
+![Download Neurise QR Code](/assets/qr-code.png)
+
+### Images
+
+<details>
+<summary><strong>App Screenshots</strong></summary>
+<br>
+<img src="/assets/presskit/neurise-now.png" alt="Neurise Now Screen" style="border-radius: 12px; max-width: 300px; margin: 10px;">
+<img src="/assets/presskit/neurise-tasks.png" alt="Neurise Tasks Screen" style="border-radius: 12px; max-width: 300px; margin: 10px;">
+<img src="/assets/presskit/neurise-gratitude.png" alt="Neurise Gratitude Screen" style="border-radius: 12px; max-width: 300px; margin: 10px;">
+<img src="/assets/presskit/neurise-reflect.png" alt="Neurise Reflect Screen" style="border-radius: 12px; max-width: 300px; margin: 10px;">
+<img src="/assets/presskit/neurise-dark.png" alt="Neurise Dark Mode" style="border-radius: 12px; max-width: 300px; margin: 10px;">
+</details>
+
+<details>
+<summary><strong>Marketing Assets</strong></summary>
+<br>
+<img src="/assets/launch/Link Card Preview Image - 1200x628.png" alt="Link Card Preview" style="border-radius: 12px; max-width: 100%; margin: 10px 0;">
+<img src="/assets/launch/Square Post - 1080x1080.png" alt="Square Post" style="border-radius: 12px; max-width: 100%; margin: 10px 0;">
+<img src="/assets/launch/Landscape Banner Ad - 1200x720.png" alt="Landscape Banner" style="border-radius: 12px; max-width: 100%; margin: 10px 0;">
+<img src="/assets/launch/Story Post - 1080x1920.png" alt="Story Post" style="border-radius: 12px; max-width: 400px; margin: 10px 0;">
+<img src="/assets/launch/Portrait Banner Ad - 720x1280.png" alt="Portrait Banner" style="border-radius: 12px; max-width: 400px; margin: 10px 0;">
+</details>
 
 ### Contact
 
