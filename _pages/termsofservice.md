@@ -47,6 +47,11 @@ If you provide feedback, ideas, or suggestions, you grant Neurise a licence to u
 ## Disclaimer of Warranties
 Neurise is provided on an "as is" and "as available" basis without warranties of any kind, either express or implied. We do not guarantee that the service will be uninterrupted, accurate, or error-free.
 
+## AI-Generated Content and Errors
+Our task creation pipeline makes use of heavily fact-checked AI to create content and suggestions. While we strive for accuracy and quality, this content may contain errors, inaccuracies, inconsistencies, or inappropriate suggestions. We do not warrant the accuracy, completeness, or suitability of such content.
+
+If you encounter content that appears incorrect, inappropriate, or problematic, we'd greatly appreciate if you used the "Improve this content" feature within the app to report it. Your feedback helps us identify and correct issues. However, you should always exercise your own judgment and, where appropriate, consult qualified professionals.
+
 ## Limitation of Liability
 To the maximum extent permitted by law, we are not liable for any indirect, incidental, consequential, special, or punitive damages, or for any loss of profits, data, or goodwill. Our total liability for any claim arising from or relating to the service is limited to the greater of the amount you paid for the service in the 12 months before the claim or £10. Nothing in these terms limits your rights under applicable consumer law or excludes liability where the law does not allow it.
 
