@@ -1,12 +1,5 @@
----
-layout: post
-title: "The Power of 'When-Then' Planning"
-description: "Vague goals get vague results. Learn why specific plans dramatically increase your chances of following through."
-slug: "implementation-intentions"
-keywords: ["fear appeals", "procrastination", "climate communication", "present bias", "implementation intentions", "negative visualization", "behavioral design", "goal setting"]
-read_time: "7 min read"
-generated: "2026-02-03T16:43:18.871610"
----
+# The Power of 'When-Then' Planning
+
 
 Implementation Intentions is something many of us struggle with, yet the science of happiness and well-being has revealed powerful strategies that can make a real difference.
 
@@ -113,7 +106,6 @@ Ready to put these insights into action? Neurise makes it easy with personalized
 
 [Download Neurise](https://apps.apple.com/app/neurise-happiness-wellbeing/id6744847217) and start your journey to a happier life today.
 
----
 
 ## Sources
 
@@ -138,7 +130,6 @@ Ready to put these insights into action? Neurise makes it easy with personalized
 19. Wellman, 2021. *You Only Die Once: How to Make It to the End with No Regrets*. [https://www.amazon.com/dp/1642506373](https://www.amazon.com/dp/1642506373)
 20. Herz et al., 2007. *The Scent of Desire*. [https://www.amazon.com/dp/0618688462](https://www.amazon.com/dp/0618688462)
 
----
 
 *Related articles:*
 

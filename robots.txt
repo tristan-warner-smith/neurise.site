@@ -1,0 +1,31 @@
+# robots.txt for neurise.app
+# Optimized for Google and other search engines
+
+# Allow all crawlers full access to content
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://neurise.app/sitemap.xml
+
+# Specific rules for Googlebot
+User-agent: Googlebot
+Allow: /
+Allow: /blog/
+Allow: /assets/
+
+# Allow Google to crawl images
+User-agent: Googlebot-Image
+Allow: /assets/
+Allow: /blog/
+
+# Block access to development/build artifacts (if any exist)
+User-agent: *
+Disallow: /_site/
+Disallow: /.sass-cache/
+Disallow: /.jekyll-cache/
+Disallow: /node_modules/
+Disallow: /.git/
+
+# Crawl-delay for polite crawling (optional, respected by some bots)
+# Crawl-delay: 1
