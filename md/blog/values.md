@@ -1,0 +1,139 @@
+# Know Your North Star: Clarifying What Matters Most
+
+
+Values is something many of us struggle with, yet the science of happiness and well-being has revealed powerful strategies that can make a real difference.
+
+People with a clear sense of purpose live 7-8 years longer than those without.
+
+In this guide, we'll explore evidence-based approaches to values, drawing on the latest research in positive psychology and behavioral science. You'll learn practical strategies you can implement today, backed by studies from leading researchers in the field.
+
+Whether you're just starting your wellness journey or looking to deepen your practice, these insights will help you make meaningful progress.
+
+## Understanding Values
+
+Before diving into strategies, it's important to understand why values matter for our overall well-being.
+
+Purpose fuels persistence and well-being. Aligning actions with values raises happiness today and is linked with longer life.
+
+The connection between values and happiness is well-documented in research. When we actively work on this area of our lives, we often see ripple effects in other domains—from our relationships to our work performance.
+
+
+Research insight: People with a clear sense of purpose live 7-8 years longer than those without. (Buettner et al., 2020)
+
+## Strategy 1: Purpose
+
+Purpose fuels persistence and well-being. Aligning actions with values raises happiness today and is linked with longer life.
+
+**How to apply this:**
+
+Complete the three-column exercise (values, what you love, what you’re good at) and choose one concrete outlet to try in the next 7 days.
+
+Research note: "People with a clear sense of purpose live 7-8 years longer than those without." — Buettner et al., 2020
+
+## Strategy 2: Memento Mori
+
+Remembering life’s finiteness often boosts gratitude and purpose, two reliable levers for well-being. A quick daily practice strengthens intention (autonomy) and helps you savor meaningful moments (positive emotions) and people (connection).
+
+**How to apply this:**
+
+Set a 5–10 minute morning timer. Sit quietly and briefly reflect on mortality—acknowledge life’s finiteness, imagine today as precious—and identify one meaningful action you will prioritize before noon.
+
+Research note: "Brief, structured memento mori exercises are intended to cultivate gratitude and reduce reactivity, not induce rumination." — Irvine, 2017
+
+## Strategy 3: Aphorisms
+
+Tiny, visible prompts reduce friction and help you act in line with your values, boosting a sense of purpose and control. Turning intentions into memorable cues supports follow-through, which strengthens autonomy and day-to-day well-being.
+
+**How to apply this:**
+
+Write three personal aphorisms that capture values you want to live by; put each on a sticky note (or phone lock screen) and place them where you’ll see them daily.
+
+Research note: "Using concise aphorisms can help distill complex life lessons into memorable, reflective prompts." — Norrick et al., 2005
+
+## What the Research Shows
+
+The strategies we've discussed aren't just anecdotal—they're backed by rigorous scientific research. Here's what the evidence tells us:
+
+**Key findings:**
+
+- **More than four million students have taken Dr. Laurie Santos' online course The Science of Well-Being**: Indicates the popularity and reach of her work on happiness (Dr. Laurie Santos' course on Coursera)
+- **Most psychological interventions increase happiness by about 10%**: Reflects the realistic magnitude of happiness improvements achievable (General happiness science research cited by Dr. Laurie Santos)
+- **Average flight delays out of O'Hare airport are 32 minutes**: Used to illustrate managing expectations and acceptance of unavoidable annoyances (Ryan Holiday's personal observation)
+- **People on death row show a two-to-one ratio of strongly positive and other-oriented words as they near death**: Evidence that positivity increases near death despite circumstances (Unspecified psychological study referenced by Dr. Laurie Santos)
+- **In the United States, only 14% of men are six feet or taller**: Illustrates how height filters exclude 86% of potential matches (Demographic data referenced by Logan Uri)
+
+**Research insights:**
+
+> People with a clear sense of purpose live 7-8 years longer than those without.
+> — Buettner et al., 2020
+
+> People with negative attitudes toward aging live shorter lives.
+> — Levy et al., 2002
+
+> Brief daily reflection on mortality can increase presence and appreciation.
+> — Brem et al., 2016; Irvine, 2017
+
+> Brief, structured memento mori exercises are intended to cultivate gratitude and reduce reactivity, not induce rumination.
+> — Irvine, 2017
+
+## Putting It Into Practice
+
+Knowing the science is one thing—putting it into practice is another. Here's how to start:
+
+**Start small**: Pick just one strategy from this guide and commit to trying it for a week. Small, consistent actions compound over time.
+
+**Track your progress**: Notice how you feel before and after implementing these practices. Awareness helps reinforce positive habits.
+
+**Be patient**: Meaningful change takes time. Research shows it can take anywhere from 18 to 254 days to form a new habit, with an average of 66 days.
+
+**Get support**: Consider using tools designed to help you build these habits. Apps like Neurise provide personalized, science-backed recommendations tailored to your specific needs and goals.
+
+**Quick-start actions:**
+
+- Complete the three-column exercise (values, what you love, what you’re good at) and choose one concrete outlet to try in the next 7 days.
+- Set a 5–10 minute morning timer. Sit quietly and briefly reflect on mortality—acknowledge life’s finiteness, imagine today as precious—and identify on...
+- Write three personal aphorisms that capture values you want to live by; put each on a sticky note (or phone lock screen) and place them where you’ll s...
+
+## Conclusion
+
+Improving values is a journey, not a destination. The strategies we've explored in this guide—backed by research from leading scientists in positive psychology—offer a roadmap for meaningful progress.
+
+Remember that small, consistent actions often outperform ambitious but unsustainable efforts. Start with one technique that resonates with you, practice it until it feels natural, then gradually expand your repertoire.
+
+The science is clear: we have more control over our well-being than we often realize. By applying evidence-based strategies, you can make real progress toward a happier, more fulfilling life.
+
+## Take the Next Step
+
+Ready to put these insights into action? Neurise makes it easy with personalized, science-backed recommendations delivered daily. Our app learns what works for you and helps you build lasting habits for happiness and well-being.
+
+[Download Neurise](https://apps.apple.com/app/neurise-happiness-wellbeing/id6744847217) and start your journey to a happier life today.
+
+
+## Sources
+
+1. Buettner et al., 2020. *Aging: The Longevity Factor of Purpose*. [https://pubmed.ncbi.nlm.nih.gov/32004464/](https://pubmed.ncbi.nlm.nih.gov/32004464/)
+2. Levy et al., 2002. *The impact of negative age stereotypes on health outcomes*. [https://pubmed.ncbi.nlm.nih.gov/11896739/](https://pubmed.ncbi.nlm.nih.gov/11896739/)
+3. Brem et al., 2016; Irvine, 2017. *Research on mortality awareness and Stoic practices.*. [https://www.sciencedirect.com/science/article/pii/S2352250X16300014](https://www.sciencedirect.com/science/article/pii/S2352250X16300014)
+4. Irvine, 2017. *Stoic Challenge by William B. Irvine.*. [https://www.amazon.com/dp/0691178653](https://www.amazon.com/dp/0691178653)
+5. Harmon-Jones et al., 2008. *Experiments on death awareness in college settings.*. [https://doi.org/10.1016/j.jesp.2008.06.002](https://doi.org/10.1016/j.jesp.2008.06.002)
+6. Norrick et al., 2005. *The use of proverbs and aphorisms in communication: A cognitive perspective*. [https://www.researchgate.net/publication/228764869_Proverbs_and_Aphorisms_in_Communication_A_Cognitive_Perspective](https://www.researchgate.net/publication/228764869_Proverbs_and_Aphorisms_in_Communication_A_Cognitive_Perspective)
+7. Doran, 1981. *There's a S.M.A.R.T. way to write management's goals and objectives*. [https://www.jstor.org/stable/40626806](https://www.jstor.org/stable/40626806)
+8. Tversky & Kahneman, 1981. *The framing of decisions and the psychology of choice*. [https://www.sciencedirect.com/science/article/abs/pii/S000187918191125X](https://www.sciencedirect.com/science/article/abs/pii/S000187918191125X)
+9. Uri et al., 2020. *How to Not Die Alone*. [https://www.amazon.com/dp/0593139137](https://www.amazon.com/dp/0593139137)
+10. Graziano et al., 2006. *The science of relationships*. [https://pubmed.ncbi.nlm.nih.gov/17124417/](https://pubmed.ncbi.nlm.nih.gov/17124417/)
+11. Hendrickson, 2020. *How to Be Enough: Self Acceptance for Self Critics and Perfectionists*. [https://www.amazon.com/dp/1944910174](https://www.amazon.com/dp/1944910174)
+12. Hill, 2020. *Perfectionistic climate concept*. [https://doi.org/10.1080/10615806.2020.1798210](https://doi.org/10.1080/10615806.2020.1798210)
+13. Hayes et al., 2011. *Acceptance and Commitment Therapy (ACT)*. [https://contextualscience.org/act](https://contextualscience.org/act)
+14. Hendrickson, E. (2021). *How to Be Enough: Self Acceptance for Self Critics and Perfectionists*. [https://www.amazon.com/dp/164739019X](https://www.amazon.com/dp/164739019X)
+15. Touhigg & Clarisong, 2021. *Values framework as described by Hendrickson*.
+16. Hayes et al., 2012. *Acceptance and Commitment Therapy (ACT)*. [https://contextualscience.org/act](https://contextualscience.org/act)
+17. Neff, 2021. *Neff, K. (2021). Fierce Self-Compassion: How Women Can Harness Kindness to Speak Up, Claim Their Power, and Thrive.*. [https://www.amazon.com/dp/0063046707](https://www.amazon.com/dp/0063046707)
+18. USOPC, 2017. *Quality Coaching Framework (USOPC)*. [https://www.teamusa.org](https://www.teamusa.org)
+19. Chatterjee, 2022. *Happy Mind, Happy Life: Ten Simple Ways to Feel Great Every Day*. [https://www.amazon.com/dp/140594908X](https://www.amazon.com/dp/140594908X)
+20. Cohen et al., 2003. *Psychosomatic Medicine: A Study of Social Support, Stress, and Immunity*. [https://pubmed.ncbi.nlm.nih.gov/12684360/](https://pubmed.ncbi.nlm.nih.gov/12684360/)
+
+
+*Related articles:*
+
+- [Learn more about purpose](/blog/purpose/)
+- [Learn more about prosocial behavior](/blog/prosocial-behavior/)

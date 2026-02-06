@@ -1,0 +1,88 @@
+# Neurise
+
+> The science of happiness, made simple.
+
+Neurise is an iOS app that helps users build science-backed habits for happiness and well-being through personalized daily recommendations.
+
+## Site Content
+
+- Blog: /blog/
+- Privacy Policy: /privacypolicy/
+- Terms of Service: /termsofservice/
+- Support: /support/
+- Press Kit: /presskit/
+
+## Markdown Content
+
+Raw markdown versions are available at /md/blog/[slug].md
+
+### Blog Articles
+
+- /md/blog/acceptance.md - Acceptance
+- /md/blog/anxiety-reduction.md - Anxiety Reduction
+- /md/blog/attention-management.md - Attention Management
+- /md/blog/attention-training.md - Attention Training
+- /md/blog/autonomy.md - Autonomy
+- /md/blog/behavior-change.md - Behavior Change
+- /md/blog/behavioral-activation.md - Behavioral Activation
+- /md/blog/behavioral-design.md - Behavioral Design
+- /md/blog/belonging.md - Belonging
+- /md/blog/boundaries.md - Boundaries
+- /md/blog/breathwork.md - Breathwork
+- /md/blog/burnout-prevention.md - Burnout Prevention
+- /md/blog/communication.md - Communication
+- /md/blog/connection.md - Connection
+- /md/blog/curiosity.md - Curiosity
+- /md/blog/emotion-regulation.md - Emotion Regulation
+- /md/blog/emotional-regulation.md - Emotional Regulation
+- /md/blog/empathy.md - Empathy
+- /md/blog/energy-management.md - Energy Management
+- /md/blog/focus.md - Focus
+- /md/blog/focus-timer.md - Focus Timer
+- /md/blog/gratitude.md - Gratitude
+- /md/blog/growth-mindset.md - Growth Mindset
+- /md/blog/habit-design.md - Habit Design
+- /md/blog/habit-formation.md - Habit Formation
+- /md/blog/implementation-intentions.md - Implementation Intentions
+- /md/blog/intrinsic-motivation.md - Intrinsic Motivation
+- /md/blog/journaling.md - Journaling
+- /md/blog/kindness.md - Kindness
+- /md/blog/loneliness.md - Loneliness
+- /md/blog/micro-habits.md - Micro Habits
+- /md/blog/mindfulness.md - Mindfulness
+- /md/blog/motivation.md - Motivation
+- /md/blog/perfectionism.md - Perfectionism
+- /md/blog/positive-emotion.md - Positive Emotion
+- /md/blog/positive-emotions.md - Positive Emotions
+- /md/blog/presence.md - Presence
+- /md/blog/prosocial-behavior.md - Prosocial Behavior
+- /md/blog/psychological-safety.md - Psychological Safety
+- /md/blog/purpose.md - Purpose
+- /md/blog/resilience.md - Resilience
+- /md/blog/rumination.md - Rumination
+- /md/blog/savoring.md - Savoring
+- /md/blog/self-compassion.md - Self Compassion
+- /md/blog/self-efficacy.md - Self Efficacy
+- /md/blog/self-regulation.md - Self Regulation
+- /md/blog/self-talk.md - Self Talk
+- /md/blog/sleep-hygiene.md - Sleep Hygiene
+- /md/blog/social-connection.md - Social Connection
+- /md/blog/social-support.md - Social Support
+- /md/blog/stress-management.md - Stress Management
+- /md/blog/stress-reduction.md - Stress Reduction
+- /md/blog/stress-relief.md - Stress Relief
+- /md/blog/time-affluence.md - Time Affluence
+- /md/blog/trust.md - Trust
+- /md/blog/values.md - Values
+- /md/blog/values-alignment.md - Values Alignment
+- /md/blog/wellbeing.md - Wellbeing
+
+## Structured Data
+
+- Sitemap: /sitemap.xml
+- This file: /llms.txt
+
+## Contact
+
+- Website: https://neurise.app
+- Email: hello+website@neurise.app

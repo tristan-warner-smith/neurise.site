@@ -1,0 +1,25 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+<!DOCTYPE html>
+<html lang="en-us">
+
+{% include head.html %}
+
+<body class="subPageBody">
+    <div class="headerBackground subPageHeaderBackground">
+        <div class="container subPageContainer">
+        {% include header.html %}
+            <article class="page markdown-body">
+                <a href="{{ '/blog/' | relative_url }}" class="back-to-blog" target="_self">&larr; Back to Blog</a>
+                <h1>{{ page.title }}</h1>
+                <p class="post-meta">{{ page.read_time }}</p>
+                {{ content }}
+            </article>
+        </div>
+        {% include appstoreimages.html %}
+    </div>
+</body>
+
+</html>

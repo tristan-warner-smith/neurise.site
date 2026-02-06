@@ -131,8 +131,18 @@ collections:
     output: true
     permalink: /:path/
 
+# Post permalinks - use slug from frontmatter
+permalink: /blog/:slug/
+
 # Markdown rendering
 markdown: kramdown
+
+# Site URL for sitemap and canonical URLs
+url: https://neurise.app
+
+# Plugins
+plugins:
+  - jekyll-sitemap
 
 # Apple App Site Association
 
