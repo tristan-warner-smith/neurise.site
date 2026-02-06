@@ -131,6 +131,9 @@ collections:
     output: true
     permalink: /:path/
 
+# Post permalinks - use slug from frontmatter
+permalink: /blog/:slug/
+
 # Markdown rendering
 markdown: kramdown
 
