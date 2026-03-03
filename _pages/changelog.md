@@ -12,6 +12,64 @@ We're working for you! Have feedback, ideas for features, or want to report a bu
 <br>
 
 ### `Latest`
+# **Version 1.4.0**
+#### March 2026
+
+## Shortcuts & Siri Support
+
+Start a focus, breathwork, or journaling session directly from the Shortcuts app or with Siri — no need to open the app first. You can also add these to your Home Screen.
+
+---
+
+### Countdown to Get You Ready
+
+- Focus and breathwork sessions now begin with a countdown, giving you a moment to settle before the session starts.
+- Each countdown tick now has a subtle haptic pulse, keeping you grounded without breaking your focus.
+
+---
+
+### Reflection Journal Prompts
+
+The journal now surfaces reflection prompts tailored to the type of entry you're writing, helping you go deeper when you want to.
+
+---
+
+### Polish & Fixes
+
+- Improved readability of the focus timer and time breakdown in dark mode
+- Smoother breathwork exit flow
+
+<br>
+
+---
+
+# **Version 1.3.0**
+#### February 2026
+
+## Cut Through Indecision, Look Back, and Keep Going
+
+---
+
+### Decision Paralysis? Gone.
+
+Staring at the app not knowing where to start is its own kind of stuck. The new **Decision Paralysis** practice card removes that friction — surfacing a tailored mix of breathwork, journaling, and more to break the loop and get you moving.
+
+---
+
+### Journal Reflection
+
+Your past entries are worth more than a single read. **Historic Journal Review** lets you revisit previous entries with fresh eyes — paired with guided reflection prompts that help you spot patterns, track growth, and find meaning in what you wrote.
+
+---
+
+### Focus Sessions That Don't Break
+
+Background interruptions used to mean starting over. Focus sessions now **run in the background**, automatically pause when a call comes in, and pick back up the moment you're done — so your momentum stays intact.
+
+<br>
+
+---
+
 # **Version 1.2.1**
 #### February 2026
 
