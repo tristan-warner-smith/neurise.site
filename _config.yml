@@ -64,10 +64,6 @@ features                                  :
     description: Smart nudges and positive reinforcement help keep you going — no guilt, just growth.
     fontawesome_icon_name: rocket
 
-  - title: Journaling
-    description: 195 prompts from positive psychology and CBT — gratitude, reframing, self-compassion and more. Micro (2-5 min) or deep (15-20 min) modes. All entries private and encrypted.
-    fontawesome_icon_name: book-open
-
   - title: Breathwork
     description: Calm your nervous system in minutes with guided breathing techniques — including Cyclic Sighing, Box Breathing, and 4-7-8. Backed by Stanford research.
     fontawesome_icon_name: wind
@@ -75,6 +71,10 @@ features                                  :
   - title: Focus Sessions
     description: Protect your attention and get more done. Choose from Pomodoro, Deep Work, and more — with ambient sounds and streak tracking to build the habit.
     fontawesome_icon_name: clock
+
+  - title: Journaling
+    description: 195 prompts from positive psychology and CBT — gratitude, reframing, self-compassion and more. Micro (2-5 min) or deep (15-20 min) modes. All entries private and encrypted.
+    fontawesome_icon_name: book-open
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
